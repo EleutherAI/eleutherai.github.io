@@ -33,8 +33,7 @@ OpenWebText2 (OWT2) is an enhanced version of the original OpenWebTextCorpus cov
       <pubDate>Fri, 26 Apr 2019 20:18:54 +0300</pubDate>
       
       <guid>https://eleutherai.github.io/projects/pile/</guid>
-      <description>The Pile The Pile is a large, diverse, open source language modelling data set that consists of many smaller datasets combined together. The objective is to obtain text from as many modalities as possible to ensure that models trained using The Pile will have much broader generalization abilities.  The Pile is now live! Download now, or you can read the paper
-   Comes pre-cleaned and pre-processed:  Deduplicated by URL Filtered by minimum combined reddit score 3 Deduplicated at document level with MinHashLSH.</description>
+      <description>The Pile The Pile is a large, diverse, open source language modelling data set that consists of many smaller datasets combined together. The objective is to obtain text from as many modalities as possible to ensure that models trained using The Pile will have much broader generalization abilities.  The Pile is now live! Download now, or you can read the docs</description>
     </item>
     
   </channel>
