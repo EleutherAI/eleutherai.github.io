@@ -239,6 +239,33 @@ h1.logo a .logo-text{
   font-weight: 200;
 }
 
+.promo-buttons {
+  width: 100%;
+  padding: 2em 0;
+}
+
+.promo-buttons ul {
+  display: flex;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: space-evenly;
+}
+
+.promo-buttons ul li {
+  list-style-type: none;
+}
+
+.promo-buttons ul li a {
+  padding: 0.7em;
+  text-decoration: none;
+  border: 1px solid var(--blue)
+}
+
+.promo-buttons ul li a:hover {
+  border: 1px solid var(--grey);
+  color: var(--grey);
+}
+
 .project-section {
   margin: 2em 0;
   display: block;
