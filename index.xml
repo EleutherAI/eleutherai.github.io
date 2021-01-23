@@ -44,7 +44,8 @@ Along the way we will be running experiments with alternative architectures and 
       
       <guid>https://eleuther.ai/projects-intros/open-web-text2/</guid>
       <description>OpenWebText2 OpenWebText2 is a dataset inspired by WebText, created by scraping URLs extracted from Reddit submissions up until April 2020 with a minimum score of 3 as a proxy for quality.
-It features content from multiple languages, document metadata, multiple dataset versions, and open source replication code.</description>
+It features content from multiple languages, document metadata, multiple dataset versions, and open source replication code.
+OpenWebText2 is complete! Check it out here.</description>
     </item>
     
     <item>
